@@ -1,1 +1,1 @@
-# -UCI-CBC-10-SvgLogoMaker
+# UCI-CBC-10-SvgLogoMaker
