@@ -35,15 +35,18 @@ inquirer
     ])
 
     .then((data) => {
-        console.log('Creating logo.svg...');
+        console.log('\x1b[34m%s\x1b[0m', 'Creating logo.svg...');
         const logoShape = createShape(data.shape, data.shapeColor);
-        const logoText = createText(data.textColor);
+        const logoText = createText(data.text, data.textColor);
+        console.log(logoText);
 
-        //createSVG(data);
+
+
+        //const logoSVG = createSVG(logoShape, logoText);
 
         // Create SVG file
         //fs.writeFile('./output/README.md', markdown, (err) =>
             // Inform user if there was an error or else inform user if SVG file was successfully created
-            //err ? console.error(err) : console.log('Successfully created logo.svg. File can be found inside the output folder')
+            //err ? console.error('\x1b[31m%s\x1b[0m', err) : console.log('\x1b[42m%s\x1b[0m', 'Successfully created logo.svg. File can be found inside the output folder')
         //);
     });
