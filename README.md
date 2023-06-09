@@ -21,4 +21,4 @@ For the logo text, all letters are changed to uppercase and any characters after
 ![example_03](https://github.com/cwchilvers/UCI-CBC-10-SVGLogoMaker/assets/59628271/4275c477-0363-40cd-9dff-803ec9af3623)
 
 ## Video Demonstration
-[Screen Recording](https://drive.google.com/file/d/1RhapmTw-uowEsPo_tpSBg7Knn9TwmLdY/view?usp=drive_link)
+[Video Demonstration](https://drive.google.com/file/d/1RhapmTw-uowEsPo_tpSBg7Knn9TwmLdY/view?usp=drive_link)
