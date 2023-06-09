@@ -16,9 +16,9 @@ Generates SVG logo based on user input via the CLI. When creating a logo, the us
 For the logo text, all letters are changed to uppercase and any characters after the 3rd character are removed.
 
 ## Example Logos
-![example_01](https://github.com/cwchilvers/UCI-CBC-10-SVGLogoMaker/assets/59628271/b8d659bd-4b0d-41c1-8467-96496b40864e)
-![example_02](https://github.com/cwchilvers/UCI-CBC-10-SVGLogoMaker/assets/59628271/2fb6e096-0796-425d-a891-34636a9a2f40)
-![example_03](https://github.com/cwchilvers/UCI-CBC-10-SVGLogoMaker/assets/59628271/4275c477-0363-40cd-9dff-803ec9af3623)
+![example_01](https://github.com/cwchilvers/UCI-CBC-10-SVGLogoMaker/assets/59628271/907f19a3-1552-4a72-8641-1f51dd9e0cbb)
+![example_02](https://github.com/cwchilvers/UCI-CBC-10-SVGLogoMaker/assets/59628271/9f4de1b1-24ca-41aa-93f0-df7214e81f65)
+![example_03](https://github.com/cwchilvers/UCI-CBC-10-SVGLogoMaker/assets/59628271/06bd64f6-310f-4565-ac8a-ebc17eb5e658)
 
 ## Video Demonstration
-[Screen Recording](https://drive.google.com/file/d/1g3H3aBkrsLGNBXLw_sW_i5DI5h3H_PGj/view?usp=drive_link)
+[Video Demonstration](https://drive.google.com/file/d/1RhapmTw-uowEsPo_tpSBg7Knn9TwmLdY/view?usp=drive_link)
