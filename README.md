@@ -2,8 +2,8 @@
 
 ## Table of Contents
 * [Description](#description)
-* [Example Logos](#example%20logos)
-* [Video Demonstration](#video%20demonstration)
+* [Example Logos](#example-logos)
+* [Video Demonstration](#video-demonstration)
 
 ## Description
 Generates SVG logo based on user input via the CLI. When creating a logo, the user is asked for:
@@ -20,5 +20,5 @@ For the logo text, all letters are changed to uppercase and any characters after
 ![example_02](https://github.com/cwchilvers/UCI-CBC-10-SVGLogoMaker/assets/59628271/2fb6e096-0796-425d-a891-34636a9a2f40)
 ![example_03](https://github.com/cwchilvers/UCI-CBC-10-SVGLogoMaker/assets/59628271/4275c477-0363-40cd-9dff-803ec9af3623)
 
-## Footage
+## Video Demonstration
 [Screen Recording](https://drive.google.com/file/d/1g3H3aBkrsLGNBXLw_sW_i5DI5h3H_PGj/view?usp=drive_link)
