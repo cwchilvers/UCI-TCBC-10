@@ -1,4 +1,4 @@
-const createShape = require("./lib/shapes.js");
+const createShape = require("../lib/shapes.js");
 
 // Test creating shapes
 describe("Shapes", () => {
@@ -19,7 +19,7 @@ describe("Shapes", () => {
 
         // compare input to output to see if correct
         for (const i of input) {
-            expect(createShape(input[i].shape, input[i].color)).toEqual(output[i]);
+            expect(createShape(input.shape, input.color)).toEqual(output[i]);
         }
     })
 });
