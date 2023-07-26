@@ -1,24 +1,60 @@
-# SVG Logo Maker
+<h1 align="center">
+  SVG Logo Generator
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/SVG-FFB13B.svg?style=for-the-badge&logo=SVG&logoColor=black" alt="SVG">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License">
+</p>
+
+<h4 align="center">A simple SVG logo generator.</h4>
 
 ## Table of Contents
-* [Description](#description)
-* [Example Logos](#example-logos)
-* [Video Demonstration](#video-demonstration)
+1. [Description](#description)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Example Logos](#example-logos)
+5. [Technologies Used](#technologies-used)
+6. [License](#license)
+7. [Credits](#credits)
+8. [Contact Information](#contact-information)
 
 ## Description
-Generates SVG logo based on user input via the CLI. When creating a logo, the user is asked for:
+This project is a simple SVG logo generator that allows the user to create a logo based on their input via the CLI. The user is asked for the logo text, logo text color, logo shape, and logo shape color. The logo is then generated and saved to the `output` folder.
 
-* Logo text (maximum of 3 characters)
-* Logo text color (from a list of colors)
-* Logo shape (from a list of shapes)
-* Logo shape color (from a list of colors)
+## Installation
+1. Clone the repository locally.
+2. Navigate to the root folder of the repository.
+3. Run `npm install` to install the required dependencies.
 
-For the logo text, all letters are changed to uppercase and any characters after the 3rd character are removed.
+## Usage
+1. Run `npm start` to start the application.
+2. Follow the prompts to create a logo.
+3. The logo will be saved to the `output` folder.
 
 ## Example Logos
-![example_01](https://github.com/cwchilvers/UCI-CBC-10-SVGLogoMaker/assets/59628271/907f19a3-1552-4a72-8641-1f51dd9e0cbb)
-![example_02](https://github.com/cwchilvers/UCI-CBC-10-SVGLogoMaker/assets/59628271/9f4de1b1-24ca-41aa-93f0-df7214e81f65)
-![example_03](https://github.com/cwchilvers/UCI-CBC-10-SVGLogoMaker/assets/59628271/06bd64f6-310f-4565-ac8a-ebc17eb5e658)
+<p align="center">
+    <img src="https://github.com/cwchilvers/UCI-CBC-10-SVGLogoMaker/assets/59628271/907f19a3-1552-4a72-8641-1f51dd9e0cbb">
+    <img src="https://github.com/cwchilvers/UCI-CBC-10-SVGLogoMaker/assets/59628271/9f4de1b1-24ca-41aa-93f0-df7214e81f65">
+    <img src="https://github.com/cwchilvers/UCI-CBC-10-SVGLogoMaker/assets/59628271/06bd64f6-310f-4565-ac8a-ebc17eb5e658">
+</p>
 
-## Video Demonstration
-[Video Demonstration](https://drive.google.com/file/d/1RhapmTw-uowEsPo_tpSBg7Knn9TwmLdY/view?usp=drive_link)
+
+## Technologies Used
+* Node.js
+* Inquirer.js
+* SVG
+
+## License
+This project is licensed under the MIT License. See the [MIT License](https://opensource.org/licenses/mit/) page for details.
+
+## Credits
+* [Inquirer.js](https://www.npmjs.com/package/inquirer)
+* [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
+
+## Contact Information
+<p align="center">
+    <a href="mailto:cwchilvers@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://github.com/cwchilvers"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
+</p>
