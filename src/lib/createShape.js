@@ -1,4 +1,3 @@
-// Shape classes
 class Circle {
     constructor(color) {
         this.x = '150';
@@ -25,8 +24,8 @@ class Triangle {
     }
 }
 
-// Create a shape object
-function createShape(shape, color) {
+// Create a shape
+module.exports = (shape, color) => {
     let logoShape;
 
     switch (shape) {
@@ -43,8 +42,5 @@ function createShape(shape, color) {
             return `<polygon points='${logoShape.points}' fill='${logoShape.color}'/>`
     }
 }
-
-module.exports = createShape;
-
 
 

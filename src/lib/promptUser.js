@@ -1,12 +1,10 @@
-// Import modules
 const inquirer = require('inquirer');
 
-// Colors for user to select from
 const colors = ['black', 'blue', 'brown', 'green', 'grey', 'orange', 'purple', 'red', 'white', 'yellow',];
 
 // Get user input
-function inquire() {
-    const data = inquirer.prompt([
+module.exports = () => {
+    return inquirer.prompt([
         {
             type: 'input',
             message: 'Logo Text (3 Characters Max):',
@@ -35,8 +33,4 @@ function inquire() {
             choices: colors
         }
     ])
-
-    return data;
 }
-
-module.exports = inquire;
