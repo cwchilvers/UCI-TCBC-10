@@ -51,7 +51,6 @@ This project is licensed under the MIT License. See the [MIT License](https://op
 
 ## Credits
 * [Inquirer.js](https://www.npmjs.com/package/inquirer)
-* [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
 
 ## Contact Information
 <p align="center">
