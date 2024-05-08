@@ -3,7 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript">    
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/SVG-FFB13B.svg?style=for-the-badge&logo=SVG&logoColor=black" alt="SVG">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License">
 </p>
@@ -16,9 +17,9 @@
 3. [Usage](#usage)
 4. [Example Logos](#example-logos)
 5. [Technologies Used](#technologies-used)
-6. [License](#license)
 7. [Credits](#credits)
 8. [Contact Information](#contact-information)
+9. [License](#license)
 
 ## Description
 This project is a simple SVG logo generator that allows the user to create a logo based on their input via the CLI. The user is asked for the logo text, logo text color, logo shape, and logo shape color. The logo is then generated and saved to the `output` folder.
@@ -40,14 +41,10 @@ This project is a simple SVG logo generator that allows the user to create a log
     <img src="https://github.com/cwchilvers/UCI-CBC-10-SVGLogoMaker/assets/59628271/06bd64f6-310f-4565-ac8a-ebc17eb5e658">
 </p>
 
-
 ## Technologies Used
-* Node.js
-* Inquirer.js
+*JavaScript
+* [Node.js](https://nodejs.org/)
 * SVG
-
-## License
-This project is licensed under the MIT License. See the [MIT License](https://opensource.org/licenses/mit/) page for details.
 
 ## Credits
 * [Inquirer.js](https://www.npmjs.com/package/inquirer)
@@ -57,3 +54,6 @@ This project is licensed under the MIT License. See the [MIT License](https://op
     <a href="mailto:cwchilvers@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="https://github.com/cwchilvers"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
 </p>
+
+## License
+This project is licensed under the MIT License. See the [MIT License](https://opensource.org/licenses/mit/) page for details.
